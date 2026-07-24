@@ -1,0 +1,227 @@
+# Prompt Improvement Ladder
+
+## FlyRank AI Internship
+
+**Track:** General AI Fluency  
+**Assignment:** Prompt Improvement Ladder
+
+---
+
+# Objective
+
+The goal of this assignment is to demonstrate how a weak prompt can be transformed into a reusable, high-quality prompt by improving it one step at a time. Each version changes only one aspect of the prompt while documenting how the output improves.
+
+---
+
+# Baseline Prompt
+
+### Prompt
+
+> Explain Linear Regression.
+
+### Sample Output
+
+A short explanation defining Linear Regression as a supervised learning algorithm used to predict continuous values.
+
+### Notes
+
+**What changed?**
+- Initial prompt with no context.
+
+**What improved?**
+- None.
+
+**What still failed?**
+- Too generic.
+- No audience specified.
+- No examples.
+
+**Next Improvement**
+- Define the target audience.
+
+---
+
+# Version 1 – Add Audience
+
+### Prompt
+
+> Explain Linear Regression to a beginner preparing for a Machine Learning interview.
+
+### Sample Output
+
+Provides a simpler explanation suitable for beginners.
+
+### Notes
+
+**What changed?**
+- Added a specific audience.
+
+**What improved?**
+- Easier to understand.
+
+**What still failed?**
+- No practical example.
+
+**Next Improvement**
+- Request a real-world example.
+
+---
+
+# Version 2 – Add Example
+
+### Prompt
+
+> Explain Linear Regression to a beginner preparing for ML interviews. Include one real-world example.
+
+### Sample Output
+
+Uses house price prediction as an example.
+
+### Notes
+
+**What changed?**
+- Added an example requirement.
+
+**What improved?**
+- More practical.
+
+**What still failed?**
+- Missing assumptions and limitations.
+
+**Next Improvement**
+- Request structured sections.
+
+---
+
+# Version 3 – Add Structure
+
+### Prompt
+
+> Explain Linear Regression for interview preparation. Include:
+>
+> - Definition
+> - Formula
+> - Real-world example
+> - Advantages
+> - Limitations
+
+### Sample Output
+
+Well-structured explanation with organized sections.
+
+### Notes
+
+**What changed?**
+- Added output structure.
+
+**What improved?**
+- Easier to read.
+
+**What still failed?**
+- No implementation example.
+
+**Next Improvement**
+- Request Python code.
+
+---
+
+# Version 4 – Add Coding Requirement
+
+### Prompt
+
+> Explain Linear Regression for interview preparation. Include:
+>
+> - Definition
+> - Formula
+> - Real-world example
+> - Advantages
+> - Limitations
+> - Python implementation using scikit-learn
+
+### Sample Output
+
+Includes Python code demonstrating model training and prediction.
+
+### Notes
+
+**What changed?**
+- Added coding requirement.
+
+**What improved?**
+- Practical implementation.
+
+**What still failed?**
+- Doesn't explain the complete workflow.
+
+**Next Improvement**
+- Request end-to-end explanation.
+
+---
+
+# Version 5 – Final Reusable Prompt
+
+### Prompt
+
+> You are an experienced Machine Learning mentor helping a final-year Computer Science student prepare for interviews.
+>
+> Explain Linear Regression using simple language.
+>
+> Include:
+>
+> - Definition
+> - Mathematical intuition
+> - Formula
+> - Assumptions
+> - Real-world example
+> - Advantages
+> - Limitations
+> - Python implementation using scikit-learn
+> - Dataset explanation
+> - Model training process
+> - Evaluation metrics
+> - Common interview questions
+> - Common beginner mistakes
+>
+> Keep the explanation under 800 words and make it interview-focused.
+
+### Sample Output
+
+A complete interview-ready guide containing concepts, examples, Python code, evaluation metrics, and interview questions.
+
+### Notes
+
+**What changed?**
+- Added role.
+- Added audience.
+- Added output structure.
+- Added coding requirement.
+- Added constraints.
+
+**What improved?**
+- Complete and reusable prompt.
+- Produces consistent, high-quality responses.
+- Suitable for interview preparation.
+
+**What still failed?**
+- No major issues.
+
+**Next Improvement**
+- None.
+
+---
+
+# Key Learning
+
+This exercise demonstrated that high-quality AI outputs depend on carefully designed prompts. By improving one element at a time—such as audience, examples, structure, implementation details, and constraints—the final prompt became significantly more useful, consistent, and reusable.
+
+---
+
+## Prepared By
+
+**Khushahal Agnihotri**
+
+Machine Learning | AI | Data Science
+
+GitHub: https://github.com/khushahal07
+
+LinkedIn: https://www.linkedin.com/in/khushahal-agnihotri/
