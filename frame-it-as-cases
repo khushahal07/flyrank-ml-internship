@@ -1,0 +1,124 @@
+# Frame It As Cases
+
+## FlyRank AI Internship
+
+**Track:** General AI Fluency  
+**Week:** 2  
+**Assignment:** Frame It As Cases
+
+---
+
+# Voice Card
+
+**Clear, practical, honest, results-focused, confident, simple**
+
+---
+
+# Case Study
+
+## Project Title
+
+**Student Performance Prediction using Machine Learning**
+
+---
+
+## Problem
+
+Educational institutions often struggle to identify students who may need academic support before their performance declines. Manual analysis of student records is time-consuming and can miss important patterns hidden in the data.
+
+---
+
+## What I Did
+
+I built an end-to-end machine learning solution using **Python, Pandas, NumPy, Scikit-learn, and Matplotlib**.
+
+The project involved:
+
+- Collecting and understanding the dataset
+- Cleaning and preprocessing data
+- Handling missing values
+- Selecting important features
+- Splitting the dataset into training and testing sets
+- Training multiple machine learning models
+- Comparing model performance
+- Evaluating results using accuracy and other performance metrics
+- Documenting the complete workflow on GitHub
+
+---
+
+## What Came of It
+
+This project demonstrates my ability to develop a complete machine learning workflow, from data preparation to model evaluation. It improved my practical understanding of supervised learning, feature engineering, model comparison, and evaluation. The project also strengthened my experience with GitHub documentation and writing maintainable code.
+
+---
+
+# Before (Generic AI Version)
+
+> This project predicts student performance using machine learning algorithms. The data is preprocessed before training the model. Different algorithms are evaluated to find the best-performing model. The project demonstrates knowledge of machine learning concepts and Python programming.
+
+---
+
+# After (Edited Version)
+
+Student performance data contains patterns that are difficult to identify through manual analysis. To address this, I developed a complete machine learning pipeline using Python and Scikit-learn. I cleaned and prepared the dataset, engineered relevant features, trained multiple machine learning models, compared their performance, and evaluated the results using appropriate metrics. The complete workflow was documented in GitHub, demonstrating my ability to build practical, end-to-end machine learning solutions rather than simply training a model.
+
+---
+
+# Why This Project Matters
+
+This project demonstrates practical experience in:
+
+- Machine Learning
+- Python Programming
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Scikit-learn
+- Git & GitHub
+- Problem Solving
+
+---
+
+# Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+- Git
+- GitHub
+
+---
+
+# Key Learning
+
+This assignment helped me understand that a strong portfolio should explain the problem, the decisions made during development, and the impact of the work—not just display code or screenshots. Framing projects as case studies makes them more meaningful and easier for recruiters and hiring managers to evaluate.
+
+---
+
+# Call to Action
+
+I am seeking opportunities as a **Machine Learning Engineer, AI Engineer, or Data Science Intern**, where I can contribute to real-world AI projects while continuing to improve my technical skills and problem-solving abilities.
+
+---
+
+## Prepared By
+
+**Khushahal Agnihotri**
+
+Machine Learning | AI | Data Science
+
+**GitHub:** https://github.com/khushahal07
+
+**Portfolio:** https://khushahal07.github.io/PersonalPortfolio/
+
+**LinkedIn:** https://www.linkedin.com/in/khushahal-agnihotri/
+
+---
+
+## Thank You
+
+Thank you for reviewing my submission. Feedback is always welcome, and I look forward to continuing my learning journey through the FlyRank AI Internship Program.
